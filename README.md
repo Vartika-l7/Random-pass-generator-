@@ -20,8 +20,11 @@ Google Fonts: Integrated "Bricolage Grotesque" for a unique look.
 ## Project Structure
 Plaintext
 ├── index.html   # Main structure and JavaScript logic
+
 ├── style.css    # Styling and layout rules
+
 ├── copy.png     # UI icon for copying (future functionality)
+
 └── generate.png # UI icon for the generate button
 
 
